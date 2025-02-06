@@ -32,12 +32,8 @@ To run the project, ensure you have Python installed.
    ```
 
 ## 🎮 How to Play
-<video width="600" controls>
-  <source src="./src/guessgenius.mp4" type="video/mp4">
-</video>
-![User Interface](https://github.com/Srinadhch07/GuessGenius/blob/main/src/Screenshot%202025-02-06%20155933.png)
-![Video](https://github.com/Srinadhch07/GuessGenius/blob/main/src/guessgenius.mp4)
 
+![Game Preview](https://github.com/Srinadhch07/GuessGenius/blob/main/src/Screenshot%202025-02-06%20155933.png?raw=true)
 
 1. Enter a number in the input field.
 2. Click **Check** to submit your guess.
