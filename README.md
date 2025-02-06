@@ -32,6 +32,9 @@ To run the project, ensure you have Python installed.
    ```
 
 ## 🎮 How to Play
+<video width="600" controls>
+  <source src="./src/guessgenius.mp4" type="video/mp4">
+</video>
 
 
 1. Enter a number in the input field.
